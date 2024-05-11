@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aditya15-adi/devop_site.git/static/css/main.cd98752e.css",
+    "main.js": "/Aditya15-adi/devop_site.git/static/js/main.e9c242ab.js",
+    "static/media/im2.svg": "/Aditya15-adi/devop_site.git/static/media/im2.10815c046c99d5046afacf8ab2bd847a.svg",
+    "static/media/im1.svg": "/Aditya15-adi/devop_site.git/static/media/im1.5a822ab9c6c8c4a2544b5dd32ba172d4.svg",
+    "index.html": "/Aditya15-adi/devop_site.git/index.html",
+    "main.cd98752e.css.map": "/Aditya15-adi/devop_site.git/static/css/main.cd98752e.css.map",
+    "main.e9c242ab.js.map": "/Aditya15-adi/devop_site.git/static/js/main.e9c242ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd98752e.css",
+    "static/js/main.e9c242ab.js"
+  ]
+}
